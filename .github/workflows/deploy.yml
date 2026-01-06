@@ -1,4 +1,4 @@
-name: Deploy Vite to Pages
+name: Deploy Vite Project
 on:
   push:
     branches: ["main"]
